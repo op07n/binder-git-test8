@@ -85,3 +85,5 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 yfinance==0.1.52
 zipp==0.6.0
+jupyter-server-proxy 
+nbserverproxy
